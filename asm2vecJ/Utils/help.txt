@@ -1,0 +1,11 @@
+java -jar asm2veck.jar testCO0O3 0 /home/?/Documents/Travail/?/Coreutils/ 1 O0 O3
+[main] INFO asmvec.Asm2VecCloneDetector - TRAIN PHASE
+[main] INFO asmvec.Asm2VecCloneDetector - Total 19773 documents
+Seed RANDOM: -6878358894809922345
+[main] INFO asmvec.LearnerAsm2Vec - Vocab 15538; Total 2560589;
+LEARNING 233.819s.
+[main] INFO asmvec.Asm2VecCloneDetector - TEST PHASE
+[main] INFO asmvec.Asm2VecCloneDetector - Total 28801 documents
+LEARNING 217.526s.
+END EXPERIMENT
+
