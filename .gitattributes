@@ -1,7 +1,5 @@
 * filter=lfs diff=lfs merge=lfs -text
-*.gitattributes* -filter=lfs -diff=lfs -merge=lfs text
 *.md -filter=lfs -diff=lfs -merge=lfs text
-*.txt -filter=lfs -diff=lfs -merge=lfs text
 *.h* -filter=lfs -diff=lfs -merge=lfs text
 *.c* -filter=lfs -diff=lfs -merge=lfs text
 *.py -filter=lfs -diff=lfs -merge=lfs text
@@ -10,3 +8,4 @@
 *README -filter=lfs -diff=lfs -merge=lfs text
 *COPYING -filter=lfs -diff=lfs -merge=lfs text
 LICENSE -filter=lfs -diff=lfs -merge=lfs text
+.gitattributes -filter=lfs -diff=lfs -merge=lfs text
