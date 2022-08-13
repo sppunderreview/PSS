@@ -1,4 +1,4 @@
-# A New Spectral Similarity for Scalable Program Clone Search
+# Scalable Program Clone Search Through Spectral Analysis
 Anonymized artifact for NDSS 2023 submission
 
 # Download
