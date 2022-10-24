@@ -1,5 +1,5 @@
 # Scalable Program Clone Search Through Spectral Analysis
-Anonymized artifact for NDSS 2023 submission
+Anonymized artifact
 
 # Download
 In order to clone this repository, one needs git-lfs.
